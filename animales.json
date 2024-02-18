@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "nombre": "León",
+      "especie": "Panthera leo",
+      "edad": 6,
+      "foto": "https://media.istockphoto.com/id/877369086/es/foto/le%C3%B3n-panthera-leo-10-a%C3%B1os-de-edad-aislado-en-blanco.jpg?s=612x612&w=0&k=20&c=DY-jSoHGFJ-_fstEWhOZ5kAufR1zHFjwQdwZjI1vEoI=",
+      "descripcion": "El león es un mamífero carnívoro de la familia de los félidos."
+    },
+    {
+      "id": 2,
+      "nombre": "Tigre",
+      "especie": "Panthera tigris",
+      "edad": 5,
+      "foto": "https://media.istockphoto.com/id/1347184195/es/foto/tigre-se-para-en-una-roca-contra-el-fondo-de-la-monta%C3%B1a-de-la-tarde.jpg?s=612x612&w=0&k=20&c=VdijGc4BD3w8TURYbNLArsT_7VVOShWUxHNS_Fit9Ag=",
+      "descripcion": "El tigre es el felino más grande del mundo y uno de los animales más emblemáticos."
+    },
+    {
+      "id": 3,
+      "nombre": "Elefante",
+      "especie": "Loxodonta",
+      "edad": 12,
+      "foto": "https://media.istockphoto.com/id/479667835/es/foto/elefante-de-fondo.jpg?s=612x612&w=0&k=20&c=MlT4YKe7r3JWL3yd8PH2mijigFsDvzEWhkI3SgXsrJk=",
+      "descripcion": "Los elefantes son los mamíferos terrestres más grandes del mundo."
+    },
+    {
+      "id": 4,
+      "nombre": "Jirafa",
+      "especie": "Giraffa camelopardalis",
+      "edad": 8,
+      "foto": "https://media.istockphoto.com/id/119356838/es/foto/cabezales-de-dos-jirafas-antes-de-verde-de-los-%C3%A1rboles.jpg?s=612x612&w=0&k=20&c=e3Hs7RqsgMKtCNrLP536HGCU5wMXv8u5VFnbIs-niSI=",
+      "descripcion": "La jirafa es el mamífero terrestre más alto y el animal terrestre más alto en general."
+    },
+    {
+      "id": 5,
+      "nombre": "Oso Polar",
+      "especie": "Ursus maritimus",
+      "edad": 10,
+      "foto": "https://media.istockphoto.com/id/627066956/es/foto/oso-polar.jpg?s=612x612&w=0&k=20&c=RsR1vKVFRwbsbZ9ATUORYNqQ4vE1vkbTEJZncADYRS8=",
+      "descripcion": "El oso polar es una especie de mamífero carnívoro de la familia Ursidae."
+    },
+    {
+      "id": 6,
+      "nombre": "Canguro",
+      "especie": "Macropus",
+      "edad": 4,
+      "foto": "https://media.istockphoto.com/id/963351930/es/foto/1399.jpg?s=612x612&w=0&k=20&c=5JW4uoy20GXKteoz4bJkmrdC4crVlLe-oPQg15dmahM=",
+      "descripcion": "Los canguros son marsupiales que se encuentran en Australia."
+    },
+    {
+      "id": 7,
+      "nombre": "Leopardo",
+      "especie": "Panthera pardus",
+      "edad": 7,
+      "foto": "https://media.istockphoto.com/id/465470420/es/foto/enfocado.jpg?s=612x612&w=0&k=20&c=R6aNsQ6C1IKadEoJg-q-dBvgxFn36Y6-tdb67kGy1ts=",
+      "descripcion": "El leopardo es un felino que se encuentra en África y Asia."
+    },
+    {
+      "id": 8,
+      "nombre": "Orangután",
+      "especie": "Pongo",
+      "edad": 9,
+      "foto": "https://media.istockphoto.com/id/146887289/es/foto/orangut%C3%A1n-joven-sentado-en-el-%C3%A1rbol.jpg?s=612x612&w=0&k=20&c=nA7IgCo7r9H00x10Xt-cJczvQsIBjI4IEsCQGaasVIk=",
+      "descripcion": "El orangután es un gran simio que habita en los bosques de Borneo y Sumatra."
+    },
+    {
+      "id": 9,
+      "nombre": "Rinoceronte",
+      "especie": "Rhinocerotidae",
+      "edad": 15,
+      "foto": "https://media.istockphoto.com/id/1185317987/es/foto/renocerante-de-madre-y-beb%C3%A9-prepar%C3%A1ndose-para-beber.jpg?s=612x612&w=0&k=20&c=WpNHgp_MqabfvIzVQ7wbtWstC0WJJmvK6WprFZ2zsPE=",
+      "descripcion": "Los rinocerontes son grandes mamíferos herbívoros con cuernos en la nariz."
+    },
+    {
+      "id": 10,
+      "nombre": "Hipopótamo",
+      "especie": "Hippopotamus amphibius",
+      "edad": 11,
+      "foto": "https://media.istockphoto.com/id/531856654/es/foto/hipop%C3%B3tamo-en-el-agua.jpg?s=612x612&w=0&k=20&c=9oIB9iu9IHAZGcyhjiyc9NMnVoCAvALVJbq-0ZLF4JU=",
+      "descripcion": "El hipopótamo es un mamífero herbívoro semiacuático nativo de África."
+    }
+    
+  
+  ]
